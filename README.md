@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Katrina!
+- 👀 I’m interested in information, accessibility, and analysis
+- 🌱 I’m currently learning SQL
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I worked on a news show at my university's broadcasting department
